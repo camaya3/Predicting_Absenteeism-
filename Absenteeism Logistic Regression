@@ -10,7 +10,7 @@ import numpy as np
 ### Load the data
 # In[2]:
 
-data_preprocessed = pd.read_csv("C:/Users/camay/OneDrive/Desktop/Data Science Bootcamp/df_preprocessed.csv")
+data_preprocessed = pd.read_csv("C:/Users///Desktop//df_preprocessed.csv")
 data_preprocessed.head()
 # ### Create the targets
 
